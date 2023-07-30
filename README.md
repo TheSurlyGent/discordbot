@@ -56,7 +56,8 @@ note: the first ```"$"``` is just a line indicator, do not copy it
    $ python3 -m venv venv
    ```
    On Windows:
-   ```
+
+   ```powershell
    $ venv\Scripts\activate
    ```
    On Linux:
