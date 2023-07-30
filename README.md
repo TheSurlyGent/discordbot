@@ -57,7 +57,7 @@ note: the first ```"$"``` is just a line indicator, do not copy it
    ```
    On Windows:
 
-   ```powershell
+   ```
    $ venv\Scripts\activate
    ```
    On Linux:
