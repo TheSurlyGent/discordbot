@@ -17,11 +17,19 @@ To interact with the bot, use the following keywords:
 
 1. Add the bot to your Discord server.
 2. Use the bots' commands by typing the desired keyword followed by any necessary parameters.
-   For example, to roll a die, send the message: `roll`
-   To add numbers, send the message: `add 5 10 15`
-   To divide numbers, send the message: `div 20 2`
-   To multiply numbers, send the message: `mul 3 4`
-   To subtract numbers, send the message: `sub 100 30`
+
+   For example: 
+      
+      To roll a die, send the message: `roll`
+   
+      To add numbers, send the message: `add 5 10 15`
+   
+      To divide numbers, send the message: `div 20 2`
+   
+      To multiply numbers, send the message: `mul 3 4`
+   
+      To subtract numbers, send the message: `sub 100 30`
+
 3. If you want the bot to send the messages privately, prefix your message with a question mark `?`.   
    For example: `?hello`
 
