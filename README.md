@@ -51,7 +51,7 @@ note: the first ```"$"``` is just a line indicator, do not copy it
    ```
    $ cd discordbot
    ```
-4. Make and Activate the Python Virtual Environment. (This is already done if using PyCharm)
+4. Make and Activate the Python Virtual Environment.
    ```
    $ python3 -m venv venv
    ```
