@@ -12,7 +12,7 @@ async def send_message(message, user_message, is_private):
 
 def run_discord_bot():
     #Use your own token, Can replace it or add it to Environment variables
-    TOKEN = os.environ.get('TOKEN')
+    TOKEN = os.getenv('TOKEN')
     print(TOKEN)
 
     intents = discord.Intents.default()
