@@ -67,7 +67,7 @@ note: the first ```"$"``` is just a line indicator, do not copy it
    ```
    $ pip install discord
    ```
-6. Set the TOKEN from discord in the virtual environment.
+6. Set the TOKEN from discord in the virtual environment. (Optional if your TOKEN is added directly to the code)
 
    Windows:
    ```
